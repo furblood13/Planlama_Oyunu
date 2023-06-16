@@ -1,0 +1,12 @@
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim ama .netframeworklu.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim ama .netframeworklu.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim_ama.netframeworklu.Form1.resources
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim_ama.netframeworklu.Properties.Resources.resources
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim ama .netframeworklu.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim ama .netframeworklu.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\bin\Debug\takvim_ama.netframeworklu.exe.config
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\bin\Debug\takvim_ama.netframeworklu.exe
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\bin\Debug\takvim_ama.netframeworklu.pdb
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim_ama.netframeworklu.exe
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim_ama.netframeworklu.pdb
+C:\Users\furka\source\repos\takvim ama .netframeworklu\takvim ama .netframeworklu\obj\Debug\takvim_ama.netframeworklu.Form2.resources
